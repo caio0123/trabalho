@@ -1,0 +1,14 @@
+body{
+ background: #CCCCCC 
+}    
+   
+#banner{
+        width: 100%;
+}
+p{
+    text-align: center;
+}
+
+em strong{
+    color: #ff0000
+}
