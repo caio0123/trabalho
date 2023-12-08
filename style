@@ -11,10 +11,8 @@ em strong{
     color: #ff0000
 }
 
-#bandeira{
-width: 500px;
-height: 100px;
-}
+
+
 header{
  padding: 20px;
  background-color: rgb(78, 96, 185);
